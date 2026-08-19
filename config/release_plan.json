@@ -13,6 +13,13 @@
       "knowledge_topic": "topic_addon"
     }
   },
-  "processed_products": [],
-  "migration_completed": false
+  "processed_products": [
+    "alpha",
+    "beta",
+    "delta",
+    "epsilon",
+    "gamma",
+    "zeta"
+  ],
+  "migration_completed": true
 }
